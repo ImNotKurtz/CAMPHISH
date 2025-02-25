@@ -34,5 +34,5 @@ This tool requires PHP for the webserver, SSH for the serveo link, and Cloudflar
 
 ## Authors
 
-- [@Arnob](https://github.com/Arnob231)
+- [@Kurtz](https://github.com/ImNotKurtz)
 
