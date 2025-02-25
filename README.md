@@ -1,7 +1,7 @@
 
 # CAMPHISH FOR WINDOWS
 
-Grab cam shots from the target's phone front camera or PC webcam just sending a link. 
+Steal cam shots from the target's phone front camera or PC webcam just sending a link. 
 
 ![Logo](https://raw.githubusercontent.com/Arnob231/repo-images/main/camphish.png)
 
